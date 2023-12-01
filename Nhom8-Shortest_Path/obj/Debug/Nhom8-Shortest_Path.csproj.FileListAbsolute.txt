@@ -1,0 +1,13 @@
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\bin\Debug\Nhom8-Shortest_Path.exe.config
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\bin\Debug\Nhom8-Shortest_Path.exe
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\bin\Debug\Nhom8-Shortest_Path.pdb
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8-Shortest_Path.csproj.AssemblyReference.cache
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8_Shortest_Path.Properties.Resources.resources
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8-Shortest_Path.csproj.GenerateResource.cache
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8-Shortest_Path.csproj.CoreCompileInputs.cache
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8-Shortest_Path.exe
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8-Shortest_Path.pdb
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8_Shortest_Path.frmDSSVNhom8.resources
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8_Shortest_Path.frmHDSD.resources
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8_Shortest_Path.frmMain.resources
+C:\Users\pain is infinite\Videos\Nhom8-Shortest_Path\Nhom8-Shortest_Path\obj\Debug\Nhom8_Shortest_Path.frmNhapDoDai.resources
